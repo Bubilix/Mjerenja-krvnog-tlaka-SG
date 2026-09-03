@@ -1,0 +1,16 @@
+{
+  "name": "Tlakomjer — praćenje krvnog tlaka",
+  "short_name": "Tlakomjer",
+  "description": "Osobni dnevnik za praćenje krvnog tlaka kroz povijest",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF1EC",
+  "theme_color": "#12262B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
